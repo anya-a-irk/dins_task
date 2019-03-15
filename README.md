@@ -24,4 +24,4 @@ File [solution/data_aggregation.sql](solution/data_aggregation.sql) contains SQL
 
 UML scheme:
 
-![scheme](solution/UML.png)
+![scheme](solution/UML.svg)
