@@ -1,4 +1,6 @@
-# Task description
+# DINS task
+
+## Task description
 
 Dear applicants,
 here you can find data set created for your test.
@@ -16,3 +18,10 @@ As result of your SQL task, following reports should be created:
 The result of your efforts should be allocated at GitHub, for our check.  
 It's ok to upload partial results, because it can demonstrate your attitude.
  
+## Solution
+
+File [solution/data_aggregation.sql](solution/data_aggregation.sql) contains SQL scripts.
+
+UML scheme:
+
+![scheme](solution/UML.png)
